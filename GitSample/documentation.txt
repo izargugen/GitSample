@@ -12,3 +12,11 @@
  	  
  - Pour enlever un projet de Git:
  	- Clic droit sur le projet dans la vue 'Git Repositories' et DELETE REPOSITORY
+ 	
+ - Pour ajouter le projet a GitHub: 
+ 	- Se connecter au compte GitHub 
+ 	- créer un nouveau projet dans GitHub et récipérr le chemin:
+ 		ex: https://github.com/izargugen/GitSample.git
+ 	- Dans la vue 'Git Repositories':
+ 		- Clic doit sur le projet - remote - push
+ 		
