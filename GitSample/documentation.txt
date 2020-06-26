@@ -1,0 +1,14 @@
+2020-06-25
+
+ - Pour ajouter un projet a Git:
+ 	- Clic droit sur le pojet - Team - Share Poject 
+ 	- Décocher la case 'Use or create repository in parent folder of project'
+ 	- Clic sur le bouton 'CREATE' et donner le chemin du repository déja créé ( /home/sid/git/GitSampleRepository).
+ 	- Normalement on devrait avoir un répertoire créé sous: /home/sid/git/GitSampleRepository
+ 	  et une entré créée dans la vue 'Git Repositories'.  
+ 	  Les objets doivent avoir des '?' indiquant qu'ils ne sont pas encore versionnés. 	
+ 	  
+ 	- Clic droit sur le projet - Team - Add to index pour que les objets soient versionnés.
+ 	  
+ - Pour enlever un projet de Git:
+ 	- Clic droit sur le projet dans la vue 'Git Repositories' et DELETE REPOSITORY
