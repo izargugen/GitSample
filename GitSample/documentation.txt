@@ -1,4 +1,5 @@
 2020-06-25
+Tutoriel: https://wiki.eclipse.org/EGit/User_Guide#Getting_Started
 
  - Pour ajouter un projet a Git:
  	- Clic droit sur le pojet - Team - Share Poject 
@@ -15,8 +16,13 @@
  	
  - Pour ajouter le projet a GitHub: 
  	- Se connecter au compte GitHub 
- 	- créer un nouveau projet dans GitHub et récipérr le chemin:
+ 	- créer un nouveau projet dans GitHub et récupérer le chemin:
  		ex: https://github.com/izargugen/GitSample.git
  	- Dans la vue 'Git Repositories':
  		- Clic doit sur le projet - remote - push
+ 		- Saisir le chemin copié de GitHub
+ 		- Saisir le user et le mot de passe
+ 		- Dans le champ 'Source Réf', choisir 'Master [branch] et clique sur le bouton ADD SPEC - PUSH.
+ 		- Raffraichir la page dans GitHub, on devrait voire le contenu synchronisé.
+ 		
  		
